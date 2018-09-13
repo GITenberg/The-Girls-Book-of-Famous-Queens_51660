@@ -1,0 +1,31 @@
+_repo: The-Girls-Book-of-Famous-Queens_51660
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farmer, Lydia Hoyt
+    birthdate: 1842
+    deathdate: 1903
+    gutenberg_agent_id: '45950'
+    url: http://www.gutenberg.org/2009/agents/45950
+description: ''
+gutenberg_issued: '2016-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51660'
+  lccn: a10002433
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Queens -- Biography -- Juvenile literature'
+- !lcc 'D'
+- GITenberg
+tableOfContents: Semiramis, queen of Assyria -- Dido, queen of Carthage -- Cleopatra,
+  queen of Egypt -- Zenobia, queen of Palmyra -- Matilda of Flanders -- Margaret of
+  Anjou -- Catharine of Aragon -- Queen Elizabeth, and Mary, queen of Scots -- Queen
+  Catherine de' Medici -- Queen Anne -- Maria Theresa, empress of Austria -- Catherine
+  II, empress of Russia -- Queen Marie Antoinette -- The Empress Josephine -- The
+  Empress Eugenie -- Queen Victoria.
+title: The Girls' Book of Famous Queens
+url: http://www.gutenberg.org/ebooks/51660
